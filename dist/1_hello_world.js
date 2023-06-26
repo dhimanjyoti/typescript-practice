@@ -22,4 +22,3 @@ function users(dhiman01) {
     }
 }
 users(100);
-//# sourceMappingURL=1_hello_world.js.map

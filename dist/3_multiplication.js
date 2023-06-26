@@ -13,4 +13,3 @@ function printTable(n) {
         console.log(row);
     }
 }
-//# sourceMappingURL=3_multiplication.js.map
