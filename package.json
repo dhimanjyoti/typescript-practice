@@ -1,0 +1,14 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "This repo will contain all the begineer to Advance lavel typescript coding question and Answer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhiman",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
